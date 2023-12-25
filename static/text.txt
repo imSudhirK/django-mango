@@ -1,0 +1,2 @@
+this is static file 
+I am learning Django framework
